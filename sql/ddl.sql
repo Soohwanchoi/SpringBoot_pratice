@@ -8,3 +8,5 @@ create table member
 );
 
 insert into member(name) values('spring2');
+
+http://localhost:8082/login.jsp?jsessionid=1632cf00cc802cdd8b01d788bf3520c0
